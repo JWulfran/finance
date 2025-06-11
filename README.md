@@ -11,6 +11,4 @@ Ce dépôt regroupe des scripts et notebooks Python dédiés à l’analyse quan
 - **Pandas** pour la manipulation de données
 - **NumPy**, **SciPy**, **SymPy** pour les calculs numériques et symboliques
 - **Matplotlib**, **Seaborn**, **Plotly** pour la visualisation
-- **CVXPY**, **Scikit-learn** pour l’optimisation et la modélisation
-
-## 📂 Structure du projet
+- **Scikit-learn** pour l’optimisation et la modélisation
