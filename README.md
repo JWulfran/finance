@@ -1,20 +1,16 @@
-# 💹 Analyse Financière avec Python
+# 📈 Analyse Financière & Portefeuille avec Python
 
-Ce dépôt contient des notebooks et scripts Python dédiés à l’analyse financière, la modélisation des risques et l’évaluation d’entreprises.
+Ce dépôt regroupe des scripts et notebooks Python dédiés à l’analyse quantitative en finance et à l’optimisation de portefeuilles.
 
-## 📘 Objectifs
-- Automatiser l’analyse des états financiers
-- Évaluer la valeur d’une entreprise (DCF, comparables)
-- Modéliser les risques financiers (VaR, Monte Carlo)
-- Explorer les produits dérivés (options, couvertures)
-- Visualiser les données pour une meilleure interprétation
+## 🎯 Objectifs
+- Concevoir et optimiser des portefeuilles (rendement/risque)
+- Analyser des actions et leurs indicateurs fondamentaux/techniques
+- Illustrer l’utilisation de bibliothèques scientifiques Python pour la finance
 
-## 🛠️ Technologies utilisées
-- Python 3.x
-- Pandas, NumPy
-- Matplotlib, Seaborn, Plotly
-- Scikit-learn, Statsmodels
-- Jupyter Notebook
+## 🧰 Bibliothèques utilisées
+- **Pandas** pour la manipulation de données
+- **NumPy**, **SciPy**, **SymPy** pour les calculs numériques et symboliques
+- **Matplotlib**, **Seaborn**, **Plotly** pour la visualisation
+- **CVXPY**, **Scikit-learn** pour l’optimisation et la modélisation
 
-💬 N'hésitez pas à contribuer au projet ! 
-Suggestions, améliorations ou corrections sont les bienvenues via issues ou pull requests. Ensemble, rendons l’analyse financière plus accessible grâce à Python. 🚀
+## 📂 Structure du projet
